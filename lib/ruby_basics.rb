@@ -13,8 +13,8 @@ end
 def greeting(arg1, arg2)
 end
 
-def return_a_value
-
+def return_a_value(phrase="Nice")
+phrase
 end
 
 def last_evaluated_value
